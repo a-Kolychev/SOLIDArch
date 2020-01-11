@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SOLIDArch
 //
-//  Created by sma.aeris@gmail.com on 01/11/2020.
-//  Copyright (c) 2020 sma.aeris@gmail.com. All rights reserved.
+//  Created by Cyril Makankov on 01/11/2020.
+//  Copyright (c) 2020 Cyril Makankov. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }

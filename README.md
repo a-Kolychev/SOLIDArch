@@ -1,6 +1,6 @@
 # SOLIDArch
 
-[![CI Status](https://img.shields.io/travis/sma.aeris@gmail.com/SOLIDArch.svg?style=flat)](https://travis-ci.org/sma.aeris@gmail.com/SOLIDArch)
+[![CI Status](https://img.shields.io/travis/kvmakankov@gmail.com/SOLIDArch.svg?style=flat)](https://travis-ci.org/kvmakankov@gmail.com/SOLIDArch)
 [![Version](https://img.shields.io/cocoapods/v/SOLIDArch.svg?style=flat)](https://cocoapods.org/pods/SOLIDArch)
 [![License](https://img.shields.io/cocoapods/l/SOLIDArch.svg?style=flat)](https://cocoapods.org/pods/SOLIDArch)
 [![Platform](https://img.shields.io/cocoapods/p/SOLIDArch.svg?style=flat)](https://cocoapods.org/pods/SOLIDArch)
@@ -22,7 +22,7 @@ pod 'SOLIDArch'
 
 ## Author
 
-sma.aeris@gmail.com, kvmakankov@gmail.com
+kvmakankov@gmail.com
 
 ## License
 
